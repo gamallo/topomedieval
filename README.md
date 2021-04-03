@@ -12,7 +12,7 @@ O sistema extrai os topónimos de textos anotados do TMILG (Tesouro Medieval Inf
 
 ## CONFIGURAÇÃO
 
-Edita `RUN.sh` e coloca os valores corretos nos parámetros dos directórios do corpus e de Linguakit 
+Edita `RUN.sh` e coloca os valores corretos dos path aos directórios do corpus e de Linguakit 
 
 ## COMO UTILIZAR
 
