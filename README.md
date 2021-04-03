@@ -2,7 +2,7 @@
 
 ##DESCRIÇÃO
 
-Extrai os topónimos dos textos em formato TMILG (Tesouro Medieval Informatizado da Lingua Galega) do ILG, e avalia a qualidade (precisão e recall) do extrator.
+Extrai os topónimos de textos TMILG (Tesouro Medieval Informatizado da Lingua Galega) do ILG, e avalia a qualidade (precisão e recall) do extrator.
 
 ## REQUERIMENTOS
 
