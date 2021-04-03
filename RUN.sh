@@ -2,7 +2,7 @@
 
 CORPUSDIR="/home/gamallo/Aulas/TFG/2021/pablo_vazquez_pereira/test/Obras-MENS_ITGM_O" ##please, put your corpus path
 LINGUAKITDIR="/home/gamallo/Linguakit-master" ##please, put your Linguakit path
-LOGDIR="tmp"
+LOGDIR="toponimos"
 
 rm result.txt
 for i in $CORPUSDIR/* ; do echo $i;
