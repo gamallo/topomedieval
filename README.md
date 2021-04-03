@@ -1,7 +1,7 @@
 # EXTRATOR AUTOMÁTICO DE TOPÓNIMOS MEDIEVAIS
 
 
-## REQUIREMENTOS
+## REQUERIMENTOS
 
 * intérpretes Perl e Bash 
 * [LinguaKit.com](https://github.com/citiususc/Linguakit)
