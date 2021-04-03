@@ -10,11 +10,11 @@ Extrai os topónimos dos textos em formato TMILG (Tesouro Medieval Informatizado
 * [LinguaKit.com](https://github.com/citiususc/Linguakit)
 * Um directorio com os ficheiros dos textos de TMILG em .txt
 
-## HOW TO CONFIGURE
+## CONFIGURAÇÃO
 
 Edita `RUN.sh` e coloca os valores corretos nos parámetros dos directórios do corpus e de Linguakit 
 
-## HOW TO USE
+## COMO UTILIZAR
 
 ```
 sh RUN.sh
